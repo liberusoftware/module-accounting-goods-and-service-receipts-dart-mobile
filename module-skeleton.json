@@ -1,0 +1,15 @@
+{
+  "repository": "module-accounting-goods-and-service-receipts-dart-mobile",
+  "capabilityKey": "liberusoftware/module-accounting-goods-and-service-receipts",
+  "presentation": "dart-mobile",
+  "package": "module_accounting_goods_and_service_receipts_dart_mobile",
+  "foundation": "module-boilerplate-dart-mobile",
+  "foundationCommit": "0656c212b36ef4f8ffd6fc74db4ac541268e7d31",
+  "canonicalPlan": "projects/accounting/nextjs/goods-and-service-receipts.md",
+  "presentationPlan": "projects/accounting/features/goods-and-service-receipts.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "accounting"
+  ]
+}
